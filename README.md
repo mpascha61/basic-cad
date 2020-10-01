@@ -24,9 +24,9 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ### Image
 This is how you will write image code for INTERNALLY STORED images on your repo.   just FYI.
 ~~~
-<img src="images/Base.jpg" alt="The Base" width="200">
+<img src="images/Base.jpg" alt="The Base" width="300">
 ~~~
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="100">
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="200">
 
 ### Reflection
 
