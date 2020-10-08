@@ -97,6 +97,8 @@ This is the mount that goes on the base.
 
 ### Image
 
+<img src="Images/wheel.PNG" alt="The Tire" width="500">
+
 ### Reflection
 
 ---
