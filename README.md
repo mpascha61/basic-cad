@@ -52,7 +52,7 @@ This is the mount that goes on the base.
 
 ### Image
 
-<img src="images/castermount.PNG" alt="The Base" width="500">
+<img src="Images/castermount.PNG" alt="The Base" width="500">
 
 ### Reflection
 
