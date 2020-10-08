@@ -112,6 +112,8 @@ This is the mount that goes on the base.
 
 ### Image
 
+<img src="Images/axle.PNG" alt="The Axle and Collar" width="500">
+
 ### Reflection
 
 ---
