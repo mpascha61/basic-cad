@@ -82,6 +82,8 @@ This is the mount that goes on the base.
 
 ### Image
 
+<img src="Images/tire.PNG" alt="The Tire" width="500">
+
 ### Reflection
 
 ---
