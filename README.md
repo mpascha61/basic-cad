@@ -119,3 +119,18 @@ This is the axle of the wheel, it makes it turn
 ### Reflection
 I used the mirror feature to relfect a cut I made and used a coincident relation to stick 2 parts together
 ---
+
+
+### Sub Assembly
+
+### Description
+This is the partial assembly of the caster
+### Evidence
+
+### Image
+
+<img src="Images/subassembly.PNG" alt="Sub Assembly" width="500">
+
+### Reflection
+I used fasten and revolute mates for the first time
+---
