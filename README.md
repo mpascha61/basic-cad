@@ -126,8 +126,7 @@ I used the mirror feature to relfect a cut I made and used a coincident relation
 ### Description
 This is the partial assembly of the caster
 ### Evidence
-.[SubAssembly].(https://cvilleschools.onshape.com/documents/cfa514728a95d9c4e30b90a6/w/482b877e159a13e4f56353df/e/3bc9645c59951f01b94f0480)
-
+[SubAssembly](https://cvilleschools.onshape.com/documents/cfa514728a95d9c4e30b90a6/w/482b877e159a13e4f56353df/e/3bc9645c59951f01b94f0480)
 ### Image
 
 <img src="Images/subassembly.PNG" alt="Sub Assembly" width="500">
